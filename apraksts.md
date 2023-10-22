@@ -7,11 +7,14 @@ done
 # 4. Initialize repository
 done
 # 5. Defined project start page (use markdown)
-
+- The main landing page should be simple
+- It should provide an understanding of the contact that can be found within the webpage
+- It should be very fast
 # 6. Add repo contributors (if they are)
-
+- only one contributor 
 # 7. Each team member need clone repository
-
+- one team member have a cloned repository
+- 
 # 8. Defined VOC
 - Expectations: visually pleasing solution, that provides 
 - Preferences: content viewable on all devices, quick response 
